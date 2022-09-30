@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+form{
+    background-color: rgba(00,00,00,0.7);
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+label{
+    margin-left: 30px;
+}
+
+.name{
+    width: 200px;
+    height: 25px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin: 5px blue solid;
+    color: white;
+    background-color: rgba(225, 217, 217,0.5);
+}
+
+.date{
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin: 5px blue solid;
+    color: white;
+    background-color: rgba(225, 217, 217,0.5);
+}
+
+.sel{
+    color: black;
+}
+
+.direccion{
+    width: 400px;
+    height: 25px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin: 5px blue solid;
+    color: white;
+    background-color: rgba(225, 217, 217,0.5);
+}
+
+.text label{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.text textarea{
+    margin-left: 65px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgba(225, 217, 217,0.5);
+}
+
+.text input{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgba(0, 255, 0,0.5);
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 700px;
+}
